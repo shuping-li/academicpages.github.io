@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/IIS_logo_github.jpg" alt="profile" style="width: 150px; float: right; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br>
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/IIS_logo_github.png" alt="profile" style="width: 100px; float: right; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br>
 I am Shuping, a land surface model developer and hydrologist. Since October 2024, I worked as a Project Researcher at [Insititute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/UTokyo_logo2.png" alt="profile" style="width: 100px; float: right; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br>
 I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynamics.github.io/) of the [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/index_en.html) in UTokyo, where I completed the representation of hillslope hdyrological process in land surface model MATSIRO/ILS.
 
 
