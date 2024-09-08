@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/images/bio-photo.jpg" alt="profile" style="width: 650px; float: left; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br>
 
 I am Shuping, a land surface model developer and hydrologist. Since October 2024, I worked as a Project Researcher at [Insititute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
