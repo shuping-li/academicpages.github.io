@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Starting in October 2024, I will work as a project researcher at The University of Tokyo.
+I am Shuping, a land surface model developer and hydrologist. Since October 2024, I worked as a Project Researcher at [Insititute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
+I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynamics.github.io/) of the [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/index_en.html) in UTokyo, where I completed the representation of hillslope hdyrological process in land surface model MATSIRO/ILS.
+
 
 Education
 ======
