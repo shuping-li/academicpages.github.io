@@ -16,7 +16,7 @@ Since October 2024, I worked as a Project Researcher at [Insititute of Industria
 <!--- 
 <img src="{{ site.url }}{{ site.baseurl }}/images/UTokyo_logo2.png" alt="profile" style="width: 100px; float: right; margin-left: 00px; margin-right: 20px; margin-bottom: 20px" /> <br>
 -->
-I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynamics.github.io/) of the [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/index_en.html) in UTokyo, where I completed the representation of hillslope hdyrological process in land surface model MATSIRO/ILS.
+I completed my Ph.D. at the [Global Hydrodynamics Lab](https://global-hydrodynamics.github.io/) of the [Global Hydrology Group](https://hydro.iis.u-tokyo.ac.jp/index_en.html) in UTokyo, under the supervision of [Prof. Dai Yamazaki](https://hydro.iis.u-tokyo.ac.jp/~yamadai/cv.html). I mainly worked on the representation of hillslope hdyrological process in land surface model MATSIRO/ILS.
 
 
 Education
