@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuping's Homepage"
+title                    : "Shuping LI"
 title_separator          : "-"
-name                     : &name "Shuping Li"
+name                     : &name "Shuping LI"
 description              : &description "personal description"
 url                      : https://shuping-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Shuping_LI_github.jpg"
-  name             : "Shuping Li 李庶平"
+  name             : "Shuping LI 李庶平"
   pronouns         : "Ph.D., Project Researcher" # example: "she/her"  
   bio              : "shuping@rainbow.iis.u-tokyo.ac.jp"
   location         : "Tokyo, Japan"
