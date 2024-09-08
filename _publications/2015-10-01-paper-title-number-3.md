@@ -3,7 +3,7 @@ title: "Where in the World Are Vegetation Patterns Controlled by Hillslope Water
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '<br/><img src='/images/CI_vs_HI.jpg'>'
+excerpt: ''
 date: 2024-04-03
 venue: 'Water Resources Research'
 slidesurl: ''
